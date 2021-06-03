@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Queries about St. Pauls organ.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28610</idno><idno type="EEBO-CITATION">99885554</idno>
+  <idno type="VID">185300</idno>
+  <idno type="EEBO-PROQUEST">2248536152</idno>
+  
+            <idno type="STC">Wing Q164B</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.9[93]</idno>
+            <idno type="STC">ESTC R224638</idno>
+            <idno type="PROQUEST">ocm99885554</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885554e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28610)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185300)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:1[93])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Queries about St. Pauls organ.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1670?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">St. Paul's Cathedral (London, England)</term>
+               <term type="topical_term">Cathedrals --  England --  Early works to 1800.</term>
+               <term type="topical_term">Organs --  England --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:185300:1"/>
+            <pb facs="tcp:185300:1"/>
+            <head>QƲERIES about St. <hi>Paul</hi>'s Organ.</head>
+            <p n="1">I. WHether Sir <hi>Christopher Wren</hi> wou'd not have been well pleas'd to have receiv'd such a Proposal from the Organ-builder of St. <hi>Paul</hi>'s, as shou'd have erected an Organ, so as to have separated 20 Foot in the middle, as low as the Gallery, and thereby given a full and airy Prospect of the whole length of the Church, and six Fronts with Towers as high as re<g ref="char:EOLhyphen"/>quisite?</p>
+            <p n="2">II. Whether difficulty this Organ-builder finds in making Pipes to speak, whose Bodies are but 16 Foot long, does not prove how much harder it wou'd have been for him, to have made Pipes of 22 Foot speak, as those at <hi>Exeter;</hi> or 32 Foot, as several Organs beyond Sea? And whether he has reason to complain of want of height, or room in the Case for higher, and larger Pipes, since those of a com<g ref="char:EOLhyphen"/>mon size, have put him to a Non-plus? And whether he has not the greater Rea<g ref="char:EOLhyphen"/>son, because he gave the Dimensions of the Case himself?</p>
+            <p n="3">III. Whether the double Bases of the Diapasons in St. <hi>Paul</hi>'s Organ speak quick, bold, and strong, (with a firm, plump, and spreading Tone) or on the contrary, slow, soft, and only buzzing, when touch'd singly? And whether they may not more properly be call'd Mutes than speaking Pipes?</p>
+            <p n="4">IV. Whether the Organ be not too soft for the Quire now 'tis inclos'd? And if so, what will it be when laid open to the Cupulo, and Body of the Church? And what further Addition of Strength, and Lowdness will it require to display its Harmony quite through the large Concave of the Building, and answer the Ser<g ref="char:EOLhyphen"/>vice of the Quire, which is the noblest for Eccho and Sound, and consequently of the greatest advantage to an Instrument, of any in <hi>Europe?</hi>
+            </p>
+            <p n="5">V. Whether the Sound-boards, and Foundation of the Instrument, as well as Contrivance, and Disposition of the whole Work, will admit of more Stops to render the Organ in Proportion, five times as Lowd as now it is?</p>
+            <p n="6">VI Whether if 12 Stops (supposing there were so many in the great Organ) were plaid full in <hi>Chorus,</hi> 'twou'd not make St. <hi>Paul</hi>'s Organ vibrate and faint? And if so, how can it be render'd lowder by the Addition of Stops, since the Wind that does not well supply 12, must of necessity worse supply 13, and so onward?</p>
+            <p n="7">VII. Whether 'tis possible to make an Organ lowder, that has all the Strength it can contain already?</p>
+            <p n="8">VIII. Whether there been't Organs in the City lowder, sweeter, and of more variety than St. <hi>Paul</hi>'s, (which cost not one 3 d. of the Price) And particularly, whether <hi>Smith</hi> at the <hi>Temple,</hi> has not out-done <hi>Smith</hi> at St. <hi>Paul</hi>'s? And whether St. <hi>Andrew</hi>'s <hi>Ʋndershaft</hi> has not out-done them both?</p>
+            <p n="9">IX. Whether the open Diapason of Metal that speaks on the lower set of Keys at St. <hi>Andrew</hi>'s <hi>Ʋndershaft,</hi> be not a Stop of extraordinary Use and Variety, and such as neither St. <hi>Paul</hi>'s has, or can have?</p>
+            <p n="10">X. Whether Depth in the Case gives nor Liberty for containing the greater Quan<g ref="char:EOLhyphen"/>tity and Variety of Work? And if so, why shou'd not St. <hi>Paul</hi> s have as great Variety as other Organs, and the order of the Work be as well contriv'd, and dispos'd for Tuning and other Conveniencies, since its Case is near double the Depth, to any in <hi>England?</hi>
+            </p>
+            <p n="11">XI. Whether the great Organ-builder will condescend to submit his Organ to the same Scrutiny, which all Artists of the same Profession do in all Countries? And if it be deny'd, whether it will not give the World, and particularly the Dean and Chapter of St. <hi>Pauls,</hi> reason to fear, that this <hi>Noli-me-tangere</hi> proceeds from some secret Cause? And to Question—</p>
+            <p n="12">XII. Whether the Cupulo, or the Organ at St. <hi>Paul</hi>'s will be first finish'd?</p>
+         </div>
+      </body>
+   </text>
+</TEI>
